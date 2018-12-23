@@ -1,6 +1,8 @@
 # Firmware update from SD-card
 **WARNING: The only Android 6.1 based firmware image compatible with this SD-card is [2.11.293-L0 full flash firmware image](https://github.com/Lurker00/DX150-firmware/releases/download/v2.11.293/DX150FirmwareV2.11.293-L0-fullflash.zip). Do not use this SD-card with any Android 6.1 based firmware image!**
 
+**Note:** Boot from this SD-card when DX150 has Android 6.1 based firmware may not show initial logo, and the screen can be wrapped from right to left, and you may see an error message at the end. These problems are cosmetic. You may repeat flashing Android 8.1 firmware, without those glitches, if you are unsure.
+
 RockChip SoC based devices support firmware updates by booting from a specially prepared SD-card. The official way requires a Windows-based application from RockChip ("Create Upgrade Disk Tool", aka "SD Firmware Tool"), and a suitable device boot loader file. Using them, I've prepared such an SD-card for you.
 
 [`DX150FirmwareUpdater.zip`](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/download/DX150FirmwareUpdater/DX150FirmwareUpdater.zip) archive contains ready to use SD-card image file with 4GB partition, to update firmware on iBasso DX150.
