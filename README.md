@@ -1,2 +1,2 @@
-# DX150-Firmware-Add-on
-Add-on to DX150 Android 8.1 firmware
+# iBasso DX150 firmware add-on by Lurker
+Sorry, it is not ready yet!
