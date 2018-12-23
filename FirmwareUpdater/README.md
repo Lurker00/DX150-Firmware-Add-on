@@ -1,7 +1,5 @@
-# WARNING
-**The only Android 6,1 based firmware image compatible with this SD-card is [2.11.293-L0 full flash firmware image](https://github.com/Lurker00/DX150-firmware/releases/download/v2.11.293/DX150FirmwareV2.11.293-L0-fullflash.zip). Do not use this SD-card with any Android 6.1 based firmware image!**
-
 # Firmware update from SD-card
+**WARNING: The only Android 6.1 based firmware image compatible with this SD-card is [2.11.293-L0 full flash firmware image](https://github.com/Lurker00/DX150-firmware/releases/download/v2.11.293/DX150FirmwareV2.11.293-L0-fullflash.zip). Do not use this SD-card with any Android 6.1 based firmware image!**
 
 RockChip SoC based devices support firmware updates by booting from a specially prepared SD-card. The official way requires a Windows-based application from RockChip ("Create Upgrade Disk Tool", aka "SD Firmware Tool"), and a suitable device boot loader file. Using them, I've prepared such an SD-card for you.
 
