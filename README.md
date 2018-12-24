@@ -1,5 +1,3 @@
-Sorry, it is not ready yet!
-
 # iBasso DX150 firmware add-on by Lurker
 
 ## Introduction
