@@ -81,3 +81,14 @@ c. Download & unzip [iBasso’s Oreo](http://ibasso.com/down.php)<br />
     `Doing Actions succeeded.please remove the sdcard……`<br />
 1. Remove the MicroSD and it’ll auto boot
 1. You now have iBasso's Oreo
+
+**For Lurker0's USB Audio/HiByMusic Plug-in**
+1. Download and unzip Lurker's [DX150-A8.1-L1.14-sdupdate.zip](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.14)
+1. Go in there and copy his `sdupdate.img` (169,271,768 bytes) into the `DX150UPDATE`
+1. It's ok to overwrite the iBasso's Oreo `sdupdate.img` (or rename the iBasso's Oreo to whatever, up to you)
+1. Eject and follow the same procedures above steps 17-20
+1. This time however, the update is very quick < 1 min
+1. Eject the MicroSD and let your DX150 reboot
+1. Upon coming up Android would say it's updating
+1. When finish you should have Lurker0's USB Audio, Magisk Manager, & HibyMusic (Lurker)
+
