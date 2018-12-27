@@ -18,6 +18,8 @@ The ZIP archive with add-on contains `readme.txt` file with full instruction. Pl
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
 * [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
 * Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and fully compatible with [USB Audio application](https://github.com/Lurker00/DX150-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
+* 126MHz CPU frequency added (216MHz is officially lowest), which is enough for most tasks.
 
 ## History of public releases
-**1.14** - first public release for firmware 1.01.008.
+**1.15** - release for firmware 1.01.017.
+**1.14** - first public release for firmware 1.00.008.
