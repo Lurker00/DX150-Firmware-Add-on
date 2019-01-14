@@ -8,18 +8,17 @@ To check the current add-on version in Android mode, go to _Settings_, _About DX
 **WARNING:** Add-ons are *not* compatible with encrypted devices!
 
 ## How to apply or update the add-on
-The ZIP archive with add-on contains `readme.txt` file with full instruction. Please read and follow it.
+There are two packages to choose from: either Windows-only (using included AndroidTool), or any platform (using [DX150-bootable SD-card](https://github.com/Lurker00/DX150-Firmware-Add-on/tree/master/FirmwareUpdater)). The ZIP archive with add-on contains `readme.txt` file with full instruction. Please read and follow it.
 
 **Note:** Updating an add-on removes additional [Magisk](https://magiskmanager.com/) modules. You'll have to re-install them after the update.
 
 ## Changes made
 * Google Play Store added.
-* The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
 * [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md), which is also useful for its [System settings](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md#system-settings).
 * Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and fully compatible with [USB Audio application](https://github.com/Lurker00/DX150-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
 * 126MHz CPU frequency added (216MHz is officially lowest), which is enough for most tasks.
+* The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 
 ## History of public releases
-**1.15** - release for firmware 1.01.017.
-**1.14** - first public release for firmware 1.00.008.
+* [**1.15**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.15) - release for firmware 1.01.017.
