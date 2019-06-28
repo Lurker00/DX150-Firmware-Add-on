@@ -12,6 +12,9 @@ There are two packages to choose from: either Windows-only (using included Andro
 
 **Note:** Updating an add-on removes additional [Magisk](https://magiskmanager.com/) modules. You'll have to re-install them after the update.
 
+## How to return back to the official firmware
+After iBasso released OTA-like update (1.03.036 or later), it is enough to re-apply any official firmare update, then do a factory reset.
+
 ## Changes made
 * Google Play Store added.
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
@@ -22,5 +25,6 @@ There are two packages to choose from: either Windows-only (using included Andro
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 
 ## History of public releases
+* [**1.18**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.18) - release for official firmware 1.04.042.
 * [**1.17**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.17) - release for official firmware 1.03.036.
 * [**1.15**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.15) - release for official firmware 1.01.017.
