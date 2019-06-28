@@ -25,6 +25,6 @@ After iBasso released OTA-like update (1.03.036 or later), it is enough to re-ap
 * The process of [device registration](https://www.google.com/android/uncertified/) is much simplified (required to make Google Play Services work on uncertified device).
 
 ## History of public releases
-* [**1.18**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.18) - release for official firmware 1.04.042.
+* [**1.18**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.18) - release for official firmware 1.04.047.
 * [**1.17**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.17) - release for official firmware 1.03.036.
 * [**1.15**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.15) - release for official firmware 1.01.017.
