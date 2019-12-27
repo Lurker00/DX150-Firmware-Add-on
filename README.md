@@ -15,6 +15,9 @@ There are two packages to choose from: either Windows-only (using included Andro
 ## How to return back to the official firmware
 After iBasso released OTA-like update (1.03.036 or later), it is enough to re-apply any official firmare update, then do a factory reset.
 
+## How to update the official firmware
+You need to download the update from [iBasso site](http://ibasso.com/down.php), put it to SD-card or Internal storage, and start manual upgrade. Then you may install an add-on compatible with the new firmware version, if any.
+
 ## Changes made
 * Google Play Store added.
 * [Magisk](https://magiskmanager.com/) can be used to install additional modules, and to provide root access.
