@@ -19,6 +19,9 @@ After iBasso released OTA-like update (1.03.036 or later), it is enough to re-ap
 You need to download the update from [iBasso site](http://ibasso.com/down.php), put it to SD-card or Internal storage, and start manual upgrade. Then you may install an add-on compatible with the new firmware version, if any.
 
 ## Changes made
+It's up to the end user to decide whether these changes affect sound or not. I believe some of them make sound better, and none of them make sound worse.
+
+### Android
 * Google Play Store added.
 * Reduced power consumption during music playback and in suspend mode.
 * Overall performance increased.
@@ -30,6 +33,12 @@ You need to download the update from [iBasso site](http://ibasso.com/down.php), 
 * Custom build of [HibyMusic](https://play.google.com/store/apps/details?id=com.hiby.music), which plays bit perfect PCM up to 32/384kHz with no additional efforts, and is fully compatible with [USB Audio application](https://github.com/Lurker00/DX200-USB-Audio-Release/blob/master/README.md) for bit perfect DSD and SACD ISO playback.
 * Removed APKPure, CoolAPK.
 * Better thermal control.
+
+### Mango OS
+* Added Mango OS mode from DX200.
+
+**Note**: Mango OS player was taken from DX220, and, as such, is not 100% compatible. The known restrictions and problems are:
+* Only first 5 Digital Filter options actually work, and their names don't correcpond to DX150 actual filter names.
 
 ## History of public releases
 * [**1.22**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.05.075.
