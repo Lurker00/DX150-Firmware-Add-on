@@ -37,7 +37,7 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 ### Mango OS
 * Added Mango OS mode from DX200.
 
-**Note**: Mango OS player was taken from DX220, and, as such, is not 100% compatible. The known restrictions and problems are:
+**Note**: Mango OS player was taken from DX200, and, as such, is not 100% compatible. The known restrictions and problems are:
 * Only first 5 Digital Filter options actually work, and their names don't correcpond to DX150 actual filter names.
 
 ## History of public releases
