@@ -37,8 +37,10 @@ It's up to the end user to decide whether these changes affect sound or not. I b
 ### Mango OS
 * Added Mango OS mode from DX200.
 
-**Note**: Mango OS player was taken from DX200, and, as such, is not 100% compatible. The known restrictions and problems are:
+**Note 1**: Mango OS player was taken from DX200, and, as such, is not 100% compatible. The known restrictions and problems are:
 * Only first 5 Digital Filter options actually work, and their names don't correcpond to DX150 actual filter names.
+
+**Note 2**: MagiskManager icon is, actually, a stub injected by Magisk core. It is intended by the developer to help installing full MagiskManager, but I disable it to stop annoying. Should you need [MagiskManager, please install it manually](https://github.com/topjohnwu/Magisk/releases).
 
 ## History of public releases
 * [**1.22**](https://github.com/Lurker00/DX150-Firmware-Add-on/releases/tag/v1.22) - release for official firmware 1.05.075.
